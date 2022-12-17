@@ -1,3 +1,7 @@
+# Next.js WebDev News
+
+Next.js page pratice based on Traversy Media's 'Netx.js Crash Course' project, using React.js, Next.js, JavaScript, CSS and HTML
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
