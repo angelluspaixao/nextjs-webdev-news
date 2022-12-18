@@ -18,10 +18,8 @@ export const getStaticProps = async () => {
 export default function Home({ articles }) {
   return (
     <>
-      <Head>
-        <title>WebDev News</title>
-        <meta name='keywords' content='web deelopment, programing, next.js, nextjs' />
-      </Head>
+      <title>WebDev News</title>
+      <meta name='keywords' content='web deelopment, programing, next.js, nextjs' />
       <ArticleList articles={articles}/>
     </>
   )
