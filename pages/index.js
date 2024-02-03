@@ -19,7 +19,7 @@ export default function Home({ articles }) {
   return (
     <>
       <title>WebDev News</title>
-      <meta name='keywords' content='web deelopment, programing, next.js, nextjs' />
+      <meta name='keywords' content='web devlopment, programing, next.js, nextjs' />
       <ArticleList articles={articles}/>
     </>
   )
